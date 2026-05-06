@@ -1,3 +1,7 @@
+**Version 8.9, May 6th 2026**
+
+  * Update  Nepal Life Insurance[Nepal Life Insurance](../Insurance/Nepal/nepal_Life_Insurace.md)
+
 **Version 8.8, March 31st 2026**
 
   * Update NEA V2 Detail Fetch API request body [Nea v2](../Electricity/nea-v2.md)

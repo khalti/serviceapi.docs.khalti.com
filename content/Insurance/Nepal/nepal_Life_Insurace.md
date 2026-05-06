@@ -62,9 +62,22 @@
     "token": "{{TOKEN}}",
     "reference": "unique reference id",
     "amount": 2500,
-    "session_id": 2121345
+    "session_id": 2121345,
+    "depositor_type": "Self",
+    "depositor_name": "John Doe",
+    "depositor_mobile_no": "9800000000",
+    "depositor_email": "john@example.com",
+    "depositor_detail": "Brother"
 }
 </code></pre>
+
+**Newly Added Request Parameters:**
+
+- `depositor_type`: Provide a dropdown selection with the following options: `Self`, `Same_Family_Member`, `Agent`, `Other`
+- `depositor_name`: Name of depositor
+- `depositor_mobile_no`: Mobile number of depositor
+- `depositor_email`: Email ID of depositor
+- `depositor_detail`: Relation with depositor, for example `Brother` or `Employer`
 
 **Response:**
 
