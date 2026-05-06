@@ -2,7 +2,7 @@
 # **Khalti Services Documentation**
 
 
-## *Version 8.8*
+## *Version 8.9*
 
 ## *Last Update 9th April , 2026*
 
