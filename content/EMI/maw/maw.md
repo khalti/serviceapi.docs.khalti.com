@@ -29,7 +29,7 @@ The following parameters are required in the POST request:
     "reference": "621dc9ae-66a4-426c-a5be-847c5fb7346c",
     "client_code": "00025001",
     "service_slug": "maw",
-    "token": "OJqV4RQyx7ceCmqi69ae"
+    "token": "{{token}}"
 }
 </code></pre>
 
