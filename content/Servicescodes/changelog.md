@@ -1,5 +1,11 @@
 
-**Version 9.6, Jun 10-th 2026**
+**Version 9.7, Oct 2nd 2026**
+
+  * Removed FIFA Worldcup API.
+  * Added Nepal Premire League (NPL) NetTV Coupon API. [NetTV NPL Coupon](../NPL-2026/net_tv.md)
+
+
+**Version 9.6, Jun 10th 2026**
 
   * Removed chitrawan from konnect and added to Genius. [Chitrawan Unique Net](../Internet/genius.md)
   * Updated Wifi Nepal API to Genius. [Wifi Nepal](../Internet/genius.md)

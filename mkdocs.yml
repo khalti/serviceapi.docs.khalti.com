@@ -183,12 +183,9 @@ nav:
           - SIP Details : sip/kumari-sip/sip/sip-payment-details.md
           - SIP Payment: sip/kumari-sip/sip/sip-payment-payment.md
 
-  - World Cup:
-      - Dishhome Go coupon: Worldcup/Dishhome/dishhome-go.md
-      - Dishhome Fifa Recharge : Worldcup/Dishhome/dishhome-fifa-recharge.md
-      - Nettv Coupon: Worldcup/nettv/nettvcine.md
-      - Nettv Fifa Recharge: Worldcup/nettv/nettv-api.md
-      - Max TV: Worldcup/maxtv/maxtv.md
+  - Nepal Premire League (NPL):
+      - Nettv NPL Coupon : NPL-2026/net_tv.md
+  
 
   - Test Data:
       - Test Data: test-data/testdata.md

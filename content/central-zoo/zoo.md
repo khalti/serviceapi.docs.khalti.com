@@ -134,7 +134,7 @@ The following parameters are required in the POST request:
 <pre><code class="json">
 {
     "log_id": 181461,
-    "token": "OJqV4RQyx7ceCmqi69ae"
+    "token": "{{token}}"
 }
 </code></pre>
 
