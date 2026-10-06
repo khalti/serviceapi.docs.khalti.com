@@ -86,7 +86,7 @@ This endpoint processes the payment and returns the coupon PIN/serial.
 {
     "token": "{{token}}",
     "reference": "{{$guid}}",
-    "value": "nettv coupon",
+    "value": "nepal-only", // value from List Products API response
     "amount": 200
     "phone_number": 9860848045, //optional
     "email": "a@gmail.com" //optional
